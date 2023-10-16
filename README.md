@@ -24,4 +24,4 @@ Apache 2.0. See the LICENSE file for details.
 [4]:https://android-arsenal.com/api?level=24
 
 [5]:https://github.com/SoarY/MVPComDesign
-[6]:https://github.com/SoarY/MVVMComponentization
+[6]:https://github.com/SoarY/MVVMComDesignKt
